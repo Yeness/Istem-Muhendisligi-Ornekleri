@@ -1,0 +1,4 @@
+1. Geliştirdiğiniz LLM’in çalışır durumda olduğunu; örnek kullanım, test senaryoları ve çıktılarla 
+(gerekirse kısa bir demo ile) göstermeniz bekleniyor.
+
+2. Proje sonuçlarını TÜBİTAK 2209-A rapor formatına uygun olarak rapor halinde hazırlamanız gerekiyor.
